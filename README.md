@@ -5,7 +5,7 @@ I played a key role in bringing this project to life, leveraging the expertise g
 
 Live Report Link 
 
-https://app.powerbi.com/view?r=eyJrIjoiMjI5YWE3MWUtM2Q4NS00ZWRiLWFjODItNTIyODAwMWU2OGNmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&embedImagePlaceholder=true
+https://app.powerbi.com/view?r=eyJrIjoiMjI5YWE3MWUtM2Q4NS00ZWRiLWFjODItNTIyODAwMWU2OGNmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&embedImagePlaceholder=true/Readme.md
 
 # Tech  stacks
 
