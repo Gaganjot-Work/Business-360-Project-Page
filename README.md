@@ -147,7 +147,7 @@ Fact table : It will have the data about the transactions
 * Adhering to best practices in data modeling is essential to ensure efficiency and accuracy. 
 * In this project, we adopted the Snowflake data modeling approach to ensure optimal performance and scalability.
   
-![image](https://github.com/user-attachments/assets/16c37914-4d39-454c-8589-f6dbdedd388f)
+![image](https://github.com/user-attachments/assets/745a75bc-a40e-4254-a16b-8edf3f386214)
 
 # Dashboard Designing 
 Based on the mock ups received as requirement, the team will start designing the visuals and create measure as and when required.
