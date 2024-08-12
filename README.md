@@ -161,10 +161,38 @@ In Home view, all the views button will be available. User will land on specific
 * Marketing View
 * Supply chain View
 * Executive View
-* Products
 * Support
 
-# Overall Report 
+# Home View
+![image](https://github.com/user-attachments/assets/15131b78-02b7-4b51-a5fb-5f6bf3d3077d) 
+
+# Info View
+![image](https://github.com/user-attachments/assets/c9b0597a-5281-4ee6-9fd8-20d2f3b6af18)
+
+# Finance View
+![image](https://github.com/user-attachments/assets/bf4abe3b-af23-44a5-ae23-10c39f55d0e5)
+
+# Sales View
+![image](https://github.com/user-attachments/assets/2ee28507-19e5-4b96-aa73-2233f8e5934c)
+
+# Marketing View 
+![image](https://github.com/user-attachments/assets/524b10dc-2c32-4d0b-b464-f771a736e1b9)
+
+# Supply Chain View
+![image](https://github.com/user-attachments/assets/10d555e8-0947-4ed3-80d0-c1f70fef3276)
+
+# Executive View
+![image](https://github.com/user-attachments/assets/42ea7f13-da46-47d0-8be1-40fa83516231)
+
+# Support
+![image](https://github.com/user-attachments/assets/2d28da4c-806b-4ea9-acc3-e363eb741bda)
+
+
+# Project Outcome
+This report enables data-driven decision-making, allowing for in-depth analysis and providing answers to various 'why' questions based on specific situations.
+
+
+
 
 
 
