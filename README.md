@@ -52,6 +52,8 @@ https://app.powerbi.com/view?r=eyJrIjoiMjI5YWE3MWUtM2Q4NS00ZWRiLWFjODItNTIyODAwM
 * Retailer
 * Distributors
 * Consumer
+* Mock Up Dashboard
+* Benchmark Numbers
 
 # Company's Background
 AtliQ Hardware has rapidly expanded its global footprint, opening new business ventures worldwide. Specializing in computers and accessories, the company operates through three key channels:
